@@ -210,7 +210,7 @@ const Testimonials = () => {
                 </div>
                 <div className="details">
                   <div className="infos">
-                    <div className="avatars" s>
+                    <div className="avatars">
                       <ul className="grid-sort">
                         {reviewData.current.map((review, i) => (
                           <li className={` grid-item ${i}`} key={i}>
