@@ -14,10 +14,10 @@ const Home = () => {
                 <br />
                 Quang Đại
               </h3>
-              <span className="welcome">Chào mừng đến với Website của mình</span>
+              <span className="welcome">Chào mừng đến với Page của mình</span>
               <div className="tonni_tm_button">
                 <a className="anchor" href="#portfolio">
-                  Xem toàn bộ dịch vụ{" "}
+                  Xem mình giúp gì được cho bạn nhé!{" "}
                   <img className="svg" src="img/svg/arrow-right.svg" alt="" />
                 </a>
               </div>

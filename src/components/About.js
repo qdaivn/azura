@@ -31,7 +31,7 @@ const About = () => {
               </div>
               <div className="text">
                 <p>
-                Chuyên gia tư vấn định cư Mỹ – hỗ trợ các diện EB-3, EB-5, chọn bang, tối ưu thuế, chuẩn bị định cư cho người Việt.
+                Xin chào mọi người! Mình là Quang Đại, hiện đang là Chuyên viên tư vấn tại Azura Global - Chuyên tư vấn đầu tư, định cư Mỹ. Với kinh nghiệm và sự tận tâm,mình luôn sẵn sàng hỗ trợ khách hàng tìm ra những giải pháp tối ưu nhất.
                 </p>
               </div>
               <div className="dodo_progress">

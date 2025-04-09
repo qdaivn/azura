@@ -18,7 +18,7 @@ const Contact = () => {
                 <li>
                   <div className="list_inner">
                     <span className="title">
-                      Product Sale Per Day Using Out Tools
+                      Số lượt truy cập
                     </span>
                     <h3>
                       <Counter end={31} />K
