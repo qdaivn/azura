@@ -42,17 +42,17 @@ const Portfolio = () => {
                       <img src="img/thumbs/1-1.jpg" alt="" />
                       <div
                         className="main"
-                        data-img-url="img/portfolio/1.jpg"
+                        data-img-url="img/portfolio/youtube.jpg"
                       />
                     </div>
                     <div className="details">
                       <span className="category">Youtube</span>
-                      <h3 className="title">Drawing Art</h3>
+                      <h3 className="title">EB-3 là gì?</h3>
                       <img className="svg" src="img/svg/vector5.svg" alt="" />
                     </div>
                     <a
                       className="tonni_tm_full_link popup-youtube"
-                      href="//www.youtube.com/embed/7e90gBu4pas?autoplay=1"
+                      href="//www.youtube.com/embed/EpOzvRU-oro?autoplay=1"
                     />
                   </div>
                 </li>
