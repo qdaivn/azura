@@ -26,8 +26,8 @@ const About = () => {
             </div>
             <div className="right">
               <div className="title">
-                <span>Have A Nice Day!</span>
-                <h3>{`I'm`} Looking For UX/UI Designer.</h3>
+                <span>Chúc một ngày mới tốt lành</span>
+                <h3> Mình là Quang Đại</h3>
               </div>
               <div className="text">
                 <p>

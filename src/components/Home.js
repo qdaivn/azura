@@ -14,7 +14,7 @@ const Home = () => {
                 <br />
                 Quang Đại
               </h3>
-              <span className="welcome">Chào mừng đến với dịch vụ của mình</span>
+              <span className="welcome">Chào mừng đến với Website của mình</span>
               <div className="tonni_tm_button">
                 <a className="anchor" href="#portfolio">
                   Xem toàn bộ dịch vụ{" "}
