@@ -126,8 +126,8 @@ const Portfolio = () => {
                       />
                     </div>
                     <div className="details">
-                      <span className="category">Details</span>
-                      <h3 className="title">Product Design</h3>
+                      <span className="category">Bản tin EB-3</span>
+                      <h3 className="title">VISA Bulletin 2025</h3>
                       <img className="svg" src="img/svg/vector5.svg" alt="" />
                     </div>
                     <a

@@ -14,7 +14,7 @@ const Home = () => {
                 <br />
                 Quang Đại
               </h3>
-              <span className="welcome">Chào mừng đến với Page của mình</span>
+              <span className="welcome">CHUYÊN TƯ VẤN ĐẦU TƯ ĐỊNH CƯ MỸ</span>
               <div className="tonni_tm_button">
                 <a className="anchor" href="#portfolio">
                   Xem mình giúp gì được cho bạn nhé!{" "}

@@ -12,8 +12,11 @@ const Service = () => {
                 </div>
                 <div className="subtitle">
                   <p>
-                    Fusce sollicitudin eros id ex maximus gravida non vitae
-                    ante. Cras ac mi a dolor suscipit rutrum ut vitae mi.
+                    Azura với hơn 7 năm kinh nghiệm - 
+                    là đối tác chính thức của nhiều chương trình định cư diện đầu tư EB-5, 
+                    L1 và là đối tác tuyển dụng nhân sự của các tập đoàn lớn tại Mỹ cho 
+                    chương trình EB-3. Chúng tôi luôn đặt quyền lợi của khách hàng lên hàng đầu, 
+                    cam kết đồng hành cùng khách hàng và gia đình hiện thực hóa giấc mơ định cư Mỹ.
                   </p>
                 </div>
               </div>
@@ -23,14 +26,12 @@ const Service = () => {
                     <div className="list_inner">
                       <img className="svg" src="img/svg/layer.svg" alt="" />
                       <div className="title">
-                        <h3>UI/UX Designer</h3>
-                        <span>Work At Envato</span>
+                        <h3>ĐỊNH CƯ MỸ</h3>
+                        <span>THẺ XANH VĨNH VIỄN</span>
                       </div>
                       <div className="text">
                         <p>
-                          Nunc hendrerit, justo vel ultricieselei fen pretium
-                          leo, ac finibus nulla eros consect viverra neque
-                          rutrum.
+                          Các chương trình định cư Mỹ: VISA EB-3, VISA EB-5, L1...
                         </p>
                       </div>
                     </div>
@@ -43,14 +44,12 @@ const Service = () => {
                     <div className="list_inner">
                       <img className="svg" src="img/svg/design.svg" alt="" />
                       <div className="title">
-                        <h3>Graphic Design</h3>
-                        <span>Work At Freepic</span>
+                        <h3>ĐỊNH CƯ CANADA</h3>
+                        <span>CHƯƠNG TRÌNH SUV, TAY NGHỀ</span>
                       </div>
                       <div className="text">
                         <p>
-                          Nunc hendrerit, justo vel ultricieselei fen pretium
-                          leo, ac finibus nulla eros consect viverra neque
-                          rutrum.
+                          Định cư CANADA diện Startup VISA (SUV), định cư CANADA diện tay nghề...
                         </p>
                       </div>
                     </div>
@@ -63,14 +62,14 @@ const Service = () => {
                     <div className="list_inner">
                       <img className="svg" src="img/svg/marketing.svg" alt="" />
                       <div className="title">
-                        <h3>Digital Marketing</h3>
-                        <span>Work At Fiverr</span>
+                        <h3>ĐẦU TƯ BĐS MỸ</h3>
+                        <span>LÃI SUẤT HÀNG NĂM CAO</span>
                       </div>
                       <div className="text">
                         <p>
-                          Nunc hendrerit, justo vel ultricieselei fen pretium
-                          leo, ac finibus nulla eros consect viverra neque
-                          rutrum.
+                        Khác với một số hạn chế đối với việc sở hữu đất tại Việt Nam, 
+                        người nước ngoài tại Mỹ có thể mua đất vĩnh viễn và tự do sử dụng.
+
                         </p>
                       </div>
                     </div>
@@ -83,14 +82,12 @@ const Service = () => {
                     <div className="list_inner">
                       <img className="svg" src="img/svg/apps.svg" alt="" />
                       <div className="title">
-                        <h3>Mobile Application</h3>
+                        <h3>CHÍNH SÁCH CHO ĐẠI LÝ</h3>
                         <span>Work At Apple</span>
                       </div>
                       <div className="text">
                         <p>
-                          Nunc hendrerit, justo vel ultricieselei fen pretium
-                          leo, ac finibus nulla eros consect viverra neque
-                          rutrum.
+                          Trở thành CTV, Đại lý của mình để được hưởng những chính sách tốt nhất...
                         </p>
                       </div>
                     </div>
